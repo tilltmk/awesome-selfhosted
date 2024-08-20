@@ -1359,6 +1359,7 @@ Software that does not fit in another section.
 - [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
 - [WeTTY](https://butlerx.github.io/wetty/#/) - Terminal in browser over http/https. ([Source Code](https://github.com/butlerx/wetty)) `MIT` `Docker/Nodejs`
 - [wger](https://wger.de/) - Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de/en/dashboard), [Source Code](https://github.com/wger-project/wger)) `AGPL-3.0` `Python/Docker`
+- - [Freqtrade](https://www.freqtrade.io/) - Free and open-source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. ([Source Code](https://github.com/freqtrade/freqtrade)) `MIT` `Python/Docker`
 
 
 ### Money, Budgeting & Management
