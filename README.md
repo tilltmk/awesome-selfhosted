@@ -215,6 +215,8 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot), [Software Develop
 - [YoutubeDL-Server](https://github.com/nbr23/youtube-dl-server) - Web and REST interface for downloading videos onto a server. `MIT` `Python/Docker`
 - [yt-dlp Web UI](https://github.com/marcopeocchi/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
 - [µTask](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go/Docker`
+- [Freqtrade](https://www.freqtrade.io/) - A free and open-source cryptocurrency trading bot written in Python `GPL-3.0` `Python/Docker`
+
 
 
 ### Backup
